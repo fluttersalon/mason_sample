@@ -1,16 +1,6 @@
 # mason_sample
 
-A new Flutter project.
+Flutterで使用するソースを自動生成するMasonのテストです。
+以下のブログのサンプルコードとなっていますので、詳しくは以下をご参照ください。
+[【Flutter】Mason CLI を使って、ソースを自動生成する](https://flutter.salon/plugin/mason/)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
